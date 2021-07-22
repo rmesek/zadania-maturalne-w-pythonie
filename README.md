@@ -3,4 +3,4 @@ Zbiór elementów języka Python oraz przykładowa implementacja wybranych algor
 
 Wykorzystano materiały z [www.programiz.com](https://www.programiz.com/python-programming/), [www.w3schools.com](https://www.w3schools.com/python/), [stackabuse.com](https://stackabuse.com), [geeksforgeeks.org](https://www.geeksforgeeks.org/).
 
-Dokument przygotowano za pomocą edytora [Typora](https://typora.io/).
+Dokument markdown przygotowano za pomocą edytora [Typora](https://typora.io/).
